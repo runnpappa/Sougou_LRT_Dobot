@@ -6,4 +6,5 @@ Dobot.egg-info/top_level.txt
 motion/ArUco_Setup.py
 motion/Color_Detection.py
 motion/Dobot_Move.py
+motion/Dobot_move.py
 motion/__init__.py
