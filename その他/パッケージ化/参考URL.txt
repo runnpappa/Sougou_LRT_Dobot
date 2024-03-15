@@ -1,0 +1,2 @@
+https://qiita.com/aki-1227/items/33b742677ee9d36a5631
+https://www.lifewithpython.com/2012/11/Python-package-setuptools-pip.html
